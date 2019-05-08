@@ -1,5 +1,5 @@
 ---
-title: "Rapid On-ramps to Reproducible Research for R Users"
+title: "Writing reproducible research with R and Markdown"
 author: "Ben Marwick"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output:
