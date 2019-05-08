@@ -113,7 +113,7 @@ Why? To make it clear that you're happy for others to use your code, and that yo
 ---
 class: normal
 
-# 3. Use version control for tracking changes and collaboration
+# 3. Not today: Use version control for tracking changes and collaboration
 
 Before we do this, we need to do some once-off setup. Let's check that Git is ready for us (in the terminal here, not the R console):
 
@@ -136,7 +136,7 @@ And let's make sure we have an account at https://github.com
 
 class: normal
 
-# 3. Use version control for tracking changes and collaboration
+# 3. Not today: Use version control for tracking changes and collaboration
 
 If you are connected to the internet, this initializes a local git repository, connects to GitHub, and creates a remote repository:
 
@@ -283,7 +283,7 @@ Presentation written in [R Markdown using xaringan](https://github.com/yihui/xar
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/) & [knitr](http://yihui.name/knitr)
 
 Source code hosting:
-https://github.com/benmarwick/UCL-2019-On-Ramps-to-Reproducibility
+https://github.com/benmarwick/
 
 ORCID: http://orcid.org/0000-0001-7879-4531
 
@@ -292,8 +292,6 @@ Licensing:
 * Presentation: [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/us/)
 
 * Source code: [MIT](http://opensource.org/licenses/MIT) ]
-
-510fde30394bc4cbb60f5cd0a0a0150d500c4527
 
 
 
