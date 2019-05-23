@@ -1,8 +1,6 @@
-# Writing reproducible research with R and Markdown at the Northwest Data Science Summit, May 2019: Workshop and Presentation 
+# Writing reproducible research with R and Markdownm, a Workshop at 20th Anniversary Conference of the Center for Statistics and the Social Sciences (CSSS) at the University of Washington 
 
-This repository contains two of the presentations on reproducible research and open science that I gave at the Northwest Data Science Summit, May 2019. 
-
-**First**, I presented a workshop on using the [rrtools](https://github.com/benmarwick/rrtools) package to easily make reproducble manuscripts: "Rapid On-ramps to Reproducible Research for R Users"
+I presented a workshop on using the [rrtools](https://github.com/benmarwick/rrtools) package to easily make reproducble manuscripts. More on the 20th Anniversary Conference is online here https://www.csss.washington.edu/about/anniversary
 
 This was a hands-on activity, with the participants given these instructions in advance: 
 
