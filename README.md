@@ -1,4 +1,4 @@
-# Writing reproducible research with R and Markdownm, a Workshop at 20th Anniversary Conference of the Center for Statistics and the Social Sciences (CSSS) at the University of Washington 
+# Writing reproducible research with R and Markdown, a Workshop at 20th Anniversary Conference of the Center for Statistics and the Social Sciences (CSSS) at the University of Washington 
 
 I presented a workshop on using the [rrtools](https://github.com/benmarwick/rrtools) package to easily make reproducble manuscripts. More on the 20th Anniversary Conference is online here https://www.csss.washington.edu/about/anniversary
 
